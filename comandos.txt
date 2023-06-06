@@ -1,0 +1,22 @@
+- git clone https://github.com/Janeth-Mora-Avina/20230605-JanethMora.git
+- cd 20230605-JanethMora/
+- touch comandos.txt main.js index.html
+- git add .
+- git config user.name "MoraJaneth"
+- git config user.email "estrella_23janeth@hotmail.com"
+- git commit -m "01 de JanethMora"
+- git push origin main
+- git branch feature
+- git checkout feature
+- mkdir Hardware Software SeguridadInformatica
+- touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+- git add .
+- git commit -m "02 de JanethMora"
+- git push origin feature
+- git checkout main
+- mv main.js resumenHardware.txt
+- mv index.html resumenSoftware.txt
+- ls
+- nano resumenSoftware.txt
+- nano resumenHardware.txt
+- nano comandos.txt
